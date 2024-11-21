@@ -1,0 +1,1 @@
+This is a review for the CSAT score improvement plan for Stripe. In this, we analyse a static dataset and use both SQL and Python to extract information and provide insight into the key drivers and correaltion between various datapoints. 
